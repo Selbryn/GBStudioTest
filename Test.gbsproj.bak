@@ -20,18 +20,7 @@
             "y": 128,
             "actors": [],
             "triggers": [],
-            "script": [
-                {
-                    "command": "EVENT_TEXT",
-                    "args": {
-                        "text": [
-                            "This is a test scene!"
-                        ],
-                        "avatarId": ""
-                    },
-                    "id": "e1737ec9-a013-4923-b716-25a1f19d8f5d"
-                }
-            ],
+            "script": [],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -969,9 +958,9 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 200,
-        "worldScrollY": 198.39999389648438,
-        "zoom": 225,
+        "worldScrollX": 0.800000011920929,
+        "worldScrollY": 0,
+        "zoom": 100,
         "customColorsEnabled": false,
         "sgbEnabled": false,
         "customHead": "",
